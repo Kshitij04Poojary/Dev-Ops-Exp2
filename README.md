@@ -3,4 +3,4 @@ Welcome to the DevOps Repository!! Here you will find all the resources and docu
 Feel free to explore and continue.
 This is so much fun.
 Let's try git!
-I am making changes to the README.md for branch1
+I am making changes to the README.md for branch2
